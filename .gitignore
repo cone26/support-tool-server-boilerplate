@@ -38,8 +38,8 @@ lerna-debug.log*
 # dotenv environment variable files
 .env
 .env.test
-config/.game.test.env
 config/.*.test.env
+config/.test.env
 
 # temp directory
 .temp
